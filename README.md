@@ -1,5 +1,5 @@
 # Sketchy Live Tiles
-A Windows Live Tile Sketch app template, to easily create your own assets
+A Windows Live Tile Sketch app template, to easily create your own assets. Easily export all sizes at the recommended scale-factors. This includes target-based assets too.
 
 [**DOWNLOAD HERE**](https://github.com/jaminroe/sketchy-live-tiles/raw/master/Windows%20Tile%20Icon%20Template.sketch), or click the Download button above.
 
